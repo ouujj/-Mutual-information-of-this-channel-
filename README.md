@@ -1,4 +1,4 @@
-# -Mutual-information-of-this-channel-
+# Mutual-information-of-this-channel-
 
 reference
 
