@@ -54,7 +54,7 @@ def Entopy (ci,q):
         print("I(x;y): ",end="")
         for j in range(5):
             print(str(IXY[(5*i)+j])+",",end="")    
-    plt.plot(PX, IXY, color=Color[ci])
+    plt.plot(PX, IXY, color=Color[ci%5])
     print()         
     print("=======================================================================================================")
     
